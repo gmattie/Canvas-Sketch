@@ -5,5 +5,5 @@ Proof of concept development in WebGL using the [Three.js](https://threejs.org/)
 Click the screenshot image below to view the application in a new browser tab.
 
 <a href="https://canvas-sketch.onrender.com/" target="_blank">
-  <img src="./public/images/Screenshot.png" alt="Application Screenshot" />
+  <img src="./assets/images/Screenshot.png" alt="Application Screenshot" />
 </a>
